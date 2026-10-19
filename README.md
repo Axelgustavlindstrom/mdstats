@@ -113,6 +113,10 @@ mdstats/
     └── test_mdstats.py # pytest suite
 ```
 
+## Repository
+
+GitHub: https://github.com/Axelgustavlindstrom/mdstats
+
 ## Tags
 
 `markdown`, `statistics`, `link-auditor`, `cli`, `docs`, `ci`, `python`
